@@ -1,0 +1,28 @@
+Mar. 13, 2022, 12:15:51
+- recovered panel from accidentally deleting
+
+Solution: 
+https://discourse.lubuntu.me/t/lubuntu-20-04-taskbar-missing/1759/7
+
+Or
+
+sudo apt install lxpanel
+And 
+https://discourse.lubuntu.me/t/lubuntu-20-04-taskbar-missing/1759/7
+
+
+
+Mar. 13, 2022, 13:42:56
+- recovered Task Manager on panel from accidentally deleting
+
+Solution:
+Configure Panel ---> Widgets ---> Add Task Manager
+
+
+
+Mar. 13, 2022, 19:18:37
+-locate google-chrome application on /bin/google-chrome with
+
+whereis google-chrome
+
+
